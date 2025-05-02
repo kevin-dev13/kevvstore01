@@ -1,0 +1,23 @@
+1|Mobile Legends|ml.jpg|ID,ID SERVER  
+2|Free Fire|ff.jpeg|ID  
+3|Honor of Kings|HOK.jpg|ID  
+4|Genshin Impact|gpi.jpeg|ID
+5|League of Legends: PC|lol biasa.jpg|Riot ID  
+6|PUBG Mobile|pubg.jpg|ID  
+7|League of Legends: Wild Rift|lol.jpeg|ID 
+8|Magic Chess: Go Go|gogo.jpeg|ID, ID SERVER  
+9|Call of Duty Mobile|codm.jpg|Open ID  
+10|Super SUS|supersus.jpeg|ID  
+11|Blood Strike|blood.jpeg|ID  
+12|Farlight 84|farlight.jpg|ID  
+13|Sausage Man|sausage.jpeg|User ID  
+14|FC Mobile|fcmbl.jpg|ID  
+15|Stumble Guys|stumble.jpg|Username  
+16|Arena Of Valor|aov.jpg|User ID  
+17|8 Ball Pool|ball pool.jpeg|ID  
+18|Point Blank|pb.jpg|ID  
+19|Speed Drifters|sd.png|ID  
+20|ColorBANG|colorBG.jpeg|ID  
+21|Garena Undawn|gu.jpg|ID  
+22|Delta Force - Garena|df.png|ID  
+23|Metal Slug: Awakening|ms.jpg|ID
